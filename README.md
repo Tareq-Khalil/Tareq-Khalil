@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tareq-khalil&label=Profile%20views&color=0e75b6&style=flat" alt="tareq-khalil" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tareq-khalil" alt="tareq-khalil" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zachlatta" alt="tareq-khalil" /></a> </p>
 
 - 📫 reach me at **tareq@soac.club**
 <h3 align="left">Languages and Tools:</h3>
