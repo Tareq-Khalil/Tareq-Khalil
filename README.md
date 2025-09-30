@@ -1,5 +1,5 @@
 <h1 align="center">Konnichiwa 👋, I am Tareq Khalil</h1>
-<h3 align="center">A Full-Stack Web Developer, Machine Learning specialist, Game Developer, App Developer.</h3>
+<h3 align="center">A Full-Stack Web Developer, Machine Learning specialist, Game Developer, App Developer, Data Analyst.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tareq-khalil&label=Profile%20views&color=0e75b6&style=flat" alt="tareq-khalil" /> </p>
 
