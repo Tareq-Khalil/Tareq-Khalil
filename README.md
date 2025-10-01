@@ -2,9 +2,9 @@
 <h3 align="center">A Full-Stack Web Developer, Machine Learning specialist, Game Developer, App Developer, Data Analyst.</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tareq-Khalil&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Tareq-Khalil?style=flat-square&color=blueviolet" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Tareq-Khalil?style=flat-square&color=blueviolet" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=Tareq-Khalil&color=00008B&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Tareq-Khalil?style=flat-square&color=00008B" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Tareq-Khalil?style=flat-square&color=00008B" alt="GitHub stars" />
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tareq-khalil" alt="tareq-khalil" /></a> </p>
 
