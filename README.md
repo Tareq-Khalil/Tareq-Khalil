@@ -1,8 +1,11 @@
 <h1 align="center">Konnichiwa 👋, I am Tareq Khalil</h1>
 <h3 align="center">A Full-Stack Web Developer, Machine Learning specialist, Game Developer, App Developer, Data Analyst.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tareq-khalil&label=Profile%20views&color=0e75b6&style=flat" alt="tareq-khalil" /> </p>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tareq-Khalil&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Tareq-Khalil?style=flat-square&color=blueviolet" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Tareq-Khalil?style=flat-square&color=blueviolet" alt="GitHub stars" />
+</div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tareq-khalil" alt="tareq-khalil" /></a> </p>
 
 - 📫 reach me at **tareq@soac.club**
