@@ -1,6 +1,6 @@
 <h1 align="center">Konnichiwa 👋, I am Tareq Khalil</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008B8B&center=true&vCenter=true&width=500&lines=A+Full-Stack+Web+Developer;Machine+Learning+Engineer;Game+Developer;App+Developer;Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008B8B&center=true&vCenter=true&width=500&weight=700&lines=A+Full-Stack+Web+Developer;Machine+Learning+Engineer;Game+Developer;App+Developer;Data+Analyst" alt="Typing SVG" />
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Tareq-Khalil&color=00008B&style=flat-square&label=Profile+Views" alt="Profile views" />
