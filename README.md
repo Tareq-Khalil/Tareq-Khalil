@@ -25,3 +25,7 @@
 
 <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tareq-Khalil&show_icons=true&theme=transparent&hide_border=true&langs_count=10&layout=compact"/>
 </div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Tareq-Khalil&amp;theme=transparent&amp;hide_border=true&amp;cache_seconds=86400" alt="Tareq's GitHub Streak" width="49%" />
+</p>
