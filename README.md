@@ -27,5 +27,5 @@
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tareq-Khalil&amp;theme=transparent&amp;hide_border=true&amp;cache_seconds=86400" alt="Tareq's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=SinisterClown86&amp;theme=transparent&amp;hide_border=true&amp;cache_seconds=86400" alt="Tareq's GitHub Streak" width="49%" />
 </p>
