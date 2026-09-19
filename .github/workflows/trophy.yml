@@ -20,7 +20,7 @@ jobs:
         with:
           username: Tareq-Khalil
           file: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Commit trophy
         run: |
