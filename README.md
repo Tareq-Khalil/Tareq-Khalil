@@ -7,7 +7,9 @@
   <img src="https://img.shields.io/github/followers/Tareq-Khalil?style=flat-square&color=00008B" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/Tareq-Khalil?style=flat-square&color=00008B" alt="GitHub stars" />
 </div>
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/Tareq-Khalil)"><img src="https://github-profile-trophy.vercel.app/?username=Tareq-Khalil" alt="tareq-khalil" /></a></p>
+<p align="left">
+  <img src="./trophy.svg" alt="GitHub Trophies" />
+</p>
 
 <div align="center">
 
