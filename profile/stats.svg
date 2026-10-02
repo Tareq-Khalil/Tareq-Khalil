@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Tareq Khalil&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 1060, Total Commits  (last year) : 722, Total PRs: 24, Total Issues: 37, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 1062, Total Commits  (last year) : 722, Total PRs: 24, Total Issues: 37, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 74.15434845650978;
+        stroke-dashoffset: 74.14756125350767;
       }
     }
   
